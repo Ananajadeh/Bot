@@ -1,0 +1,31 @@
+{
+  "name": "nayxilaa-md",
+  "version": "1.0.0",
+  "description": "WhatsApp Multi-Device Bot dengan Baileys dan Pairing Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "online": "pm2 start ecosystem.config.js",
+    "stop": "pm2 stop nayxilaa-md",
+    "restart": "pm2 restart nayxilaa-md",
+    "logs": "pm2 logs nayxilaa-md"
+  },
+  "keywords": [
+    "whatsapp",
+    "baileys",
+    "bot",
+    "nayxilaa",
+    "pairing-code"
+  ],
+  "author": "nayxilaa",
+  "license": "ISC",
+  "dependencies": {
+    "@neoxr/quote-api": "file:/tmp/neoxr-quote-api-1.1.1-dev.tgz",
+    "@whiskeysockets/baileys": "^7.0.0-rc14",
+    "axios": "^1.21.0",
+    "canvas": "^3.2.3",
+    "form-data": "^4.0.6",
+    "instagram-url-direct": "^2.0.7",
+    "pino": "^10.4.0"
+  }
+}

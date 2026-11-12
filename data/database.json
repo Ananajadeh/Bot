@@ -1,0 +1,260 @@
+{
+  "users": {
+    "6283841800798": {
+      "name": "El Manuk",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 0,
+      "createdAt": 1793481048941
+    },
+    "6283195331051": {
+      "name": "Anan",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 15,
+      "createdAt": 1793481357937
+    },
+    "6283874403975": {
+      "name": "i cant handle change",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 2,
+      "createdAt": 1793504690509
+    },
+    "6285373083309": {
+      "name": "abynn",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 2,
+      "createdAt": 1793525249148
+    },
+    "6289663750774": {
+      "name": "Zahh",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 0,
+      "createdAt": 1793525375480
+    },
+    "6287857298585": {
+      "name": "Angga",
+      "premium": true,
+      "premiumExpires": 1796656814846,
+      "limit": 50,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 13,
+      "createdAt": 1793530632250
+    },
+    "6285875432473": {
+      "name": "Wirat Moko X.1",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 0,
+      "createdAt": 1793530702432
+    },
+    "6288901362075": {
+      "name": "Monica",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 1,
+      "createdAt": 1793804736216
+    },
+    "6287824281304": {
+      "name": "ejaaa",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 1,
+      "createdAt": 1793804740858
+    },
+    "6289508997223": {
+      "name": "Deltalub Ijo",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 3,
+      "createdAt": 1793804761458
+    },
+    "6289519949560": {
+      "name": "𓁹𓁹",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 1,
+      "createdAt": 1793804771503
+    },
+    "119259078365242": {
+      "name": "𝘱𝘪𝘱𝘪𝘦𝘺𝘺",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 2,
+      "createdAt": 1793809767683
+    },
+    "6281646847115": {
+      "name": "#dd dιkz",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 5,
+      "createdAt": 1793810526507
+    },
+    "6283879174495": {
+      "name": "farezzperoplayeremel",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 1,
+      "createdAt": 1793810549379
+    },
+    "6287824768913": {
+      "name": "Vinn",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 1,
+      "createdAt": 1793810895947
+    },
+    "6281345234713": {
+      "name": "epen",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 1,
+      "createdAt": 1793810973859
+    },
+    "6285124735602": {
+      "name": "User",
+      "premium": true,
+      "premiumExpires": 542868078396618500000,
+      "limit": 50,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 0,
+      "createdAt": 1793812106432
+    },
+    "6285842579248": {
+      "name": "koo",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 1,
+      "createdAt": 1793983838954
+    },
+    "6288219647293": {
+      "name": ".",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 1,
+      "createdAt": 1793983838968
+    },
+    "60198061478": {
+      "name": "mik",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 2,
+      "createdAt": 1793983839095
+    },
+    "6287734645946": {
+      "name": "Sega padangg",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 1,
+      "createdAt": 1793983839113
+    },
+    "62882007760690": {
+      "name": "🦋",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 1,
+      "createdAt": 1794062219682
+    },
+    "6283829469383": {
+      "name": "𓆩𝒩𝓊𝓇𝓊𝓁𓆪",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 0,
+      "createdAt": 1794062219966
+    },
+    "65606028103758": {
+      "name": "User",
+      "premium": true,
+      "premiumExpires": 1796656636383,
+      "limit": 50,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 0,
+      "createdAt": 1794064636379
+    },
+    "6283121073449": {
+      "name": "gav",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 1,
+      "createdAt": 1794160128357
+    },
+    "628123456789": {
+      "name": "Budi",
+      "premium": false,
+      "premiumExpires": null,
+      "limit": 5,
+      "lastResetCycle": "2026-11-12",
+      "totalCommands": 0,
+      "createdAt": 1794330542737
+    }
+  },
+  "groups": {
+    "120363424335102227@g.us": {
+      "name": "NAYXILA-Md MAINTANCE 🙏",
+      "rented": false,
+      "rentExpires": null,
+      "rentDays": 1,
+      "rentAddedAt": 1793525942363,
+      "warns": {},
+      "botOnly": false,
+      "createdAt": 1793481837853
+    }
+  },
+  "settings": {
+    "botOnlyGroup": false,
+    "privateOnlyPremium": true,
+    "lastResetCycle": "2026-11-12",
+    "limitPremium": 50,
+    "limitFree": 5,
+    "menuType": 1,
+    "customMenus": {},
+    "activeMenu": "default"
+  }
+}
